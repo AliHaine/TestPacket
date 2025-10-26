@@ -1,0 +1,7 @@
+main: com.alihaine.testpacket.TestPacket
+name: TestPacket
+author: [AliHaine]
+version: 1.0
+commands:
+  test:
+    description: Send a test Packet
